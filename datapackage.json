@@ -269,7 +269,7 @@
       "title": "Carbon emission by USA",
       "resources": [
         {
-          "name": "fossil-fuel-co2-emissions-by-nation",
+          "name": "fossil-fuel-co2-emissions-by-nation", 
           "transform": [
             {
               "type": "filter",
